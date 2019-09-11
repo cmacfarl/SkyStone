@@ -14,7 +14,7 @@ apply plugin: 'com.android.application'
 android {
        sourceSets {
                main.java.srcDirs += '../../terkel/java'
-               main.java.srcDirs += '../../FTC-Team-5218/2019'
+               main.java.srcDirs += '../../FTC-Team-5218/2020'
        }
 }
 
